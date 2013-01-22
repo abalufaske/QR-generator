@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Generador QR</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Generador QR</string>
+    <string name="URL">Inserte aqui la dirección</string>
+   	<string name="width">Escoge el tamaño del lado de tu QR </string>
+    <string name="height">Escoge el alto de tu QR </string>
+    <string name="download">Descarga tu código QR </string>
+    <string name="share">Comparte tu QR descargado </string>
+    <string name="view">Ver tu QR </string>
+    <string name="back">Volver atrás </string>
+    <string name="start">Generar otro QR </string>
+    <string name="value">250</string>       
+    <string name="wait">Por favor, espera a ver el QR para descargarlo</string>   
+    
+    <string name="exampleurl">https://play.google.com/store/apps/developer?id=abalufaske</string> 
+</resources>
